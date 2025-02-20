@@ -48,4 +48,10 @@ Estudante de Ciências da Computação com paixão por desenvolvimento de softwa
 Disponíveis mediante solicitação.
 
 
-Criar Conflito
+```python
+def HelloWorld(text):
+  print(text)
+
+HelloWorld("print")
+```
+
