@@ -47,9 +47,11 @@ Estudante de Ciências da Computação com paixão por desenvolvimento de softwa
 ## Referências
 Disponíveis mediante solicitação.
 
+
 ```python
 def HelloWorld(text):
   print(text)
 
 HelloWorld("print")
 ```
+
